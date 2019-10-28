@@ -5,7 +5,7 @@ const encBase64 = require("crypto-js/enc-base64");
 const uid2 = require("uid2");
 const User = require("../models/user");
 
-router.post("/signup", async (req, res) => {
+router.post("user/signup", async (req, res) => {
   try {
     const { password, username } = req.body;
     if (
@@ -40,7 +40,7 @@ router.post("/signup", async (req, res) => {
     });
   }
 });
-router.post("/login", async (req, res) => {
+router.post("user/login", async (req, res) => {
   try {
     const { password, username } = req.body;
     if (
