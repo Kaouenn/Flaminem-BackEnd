@@ -1,4 +1,4 @@
-![Overview](https://res.cloudinary.com/dnhwttpnq/image/upload/v1572256512/Flaminem/Capture_d_e%CC%81cran_2019-10-28_a%CC%80_10.54.24_nbb5cw.png)
+![Overview](https://res.cloudinary.com/dnhwttpnq/image/upload/v1572258319/Flaminem/Capture_d_e%CC%81cran_2019-10-28_a%CC%80_11.24.51_uxbgye.png)
 
 # Flaminem API
 
